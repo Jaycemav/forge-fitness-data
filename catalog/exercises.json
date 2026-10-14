@@ -1,0 +1,293 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-14",
+  "description": "General exercise reference only. No personal workouts or training logs.",
+  "entries": [
+    {
+      "id": "barbell-bench-press",
+      "name": "Barbell Bench Press",
+      "aliases": [],
+      "equipment": "barbell",
+      "primary_muscles": [
+        "chest"
+      ]
+    },
+    {
+      "id": "incline-barbell-bench-press",
+      "name": "Incline Barbell Bench Press",
+      "aliases": [],
+      "equipment": "barbell",
+      "primary_muscles": [
+        "chest"
+      ]
+    },
+    {
+      "id": "dumbbell-bench-press",
+      "name": "Dumbbell Bench Press",
+      "aliases": [],
+      "equipment": "dumbbell",
+      "primary_muscles": [
+        "chest"
+      ]
+    },
+    {
+      "id": "incline-dumbbell-press",
+      "name": "Incline Dumbbell Press",
+      "aliases": [],
+      "equipment": "dumbbell",
+      "primary_muscles": []
+    },
+    {
+      "id": "machine-chest-press",
+      "name": "Machine Chest Press",
+      "aliases": [],
+      "equipment": "machine_or_free_weight",
+      "primary_muscles": [
+        "chest"
+      ]
+    },
+    {
+      "id": "pec-deck",
+      "name": "Pec Deck",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "chest"
+      ]
+    },
+    {
+      "id": "cable-chest-fly",
+      "name": "Cable Chest Fly",
+      "aliases": [],
+      "equipment": "cable",
+      "primary_muscles": [
+        "chest"
+      ]
+    },
+    {
+      "id": "overhead-press",
+      "name": "Overhead Press",
+      "aliases": [],
+      "equipment": "machine_or_free_weight",
+      "primary_muscles": [
+        "shoulders"
+      ]
+    },
+    {
+      "id": "shoulder-press-machine",
+      "name": "Shoulder Press Machine",
+      "aliases": [],
+      "equipment": "machine_or_free_weight",
+      "primary_muscles": [
+        "shoulders"
+      ]
+    },
+    {
+      "id": "dumbbell-lateral-raise",
+      "name": "Dumbbell Lateral Raise",
+      "aliases": [],
+      "equipment": "dumbbell",
+      "primary_muscles": [
+        "shoulders"
+      ]
+    },
+    {
+      "id": "cable-lateral-raise",
+      "name": "Cable Lateral Raise",
+      "aliases": [],
+      "equipment": "cable",
+      "primary_muscles": [
+        "shoulders"
+      ]
+    },
+    {
+      "id": "triceps-pushdown",
+      "name": "Triceps Pushdown",
+      "aliases": [],
+      "equipment": "cable",
+      "primary_muscles": [
+        "triceps"
+      ]
+    },
+    {
+      "id": "overhead-triceps-extension",
+      "name": "Overhead Triceps Extension",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "triceps"
+      ]
+    },
+    {
+      "id": "pull-up",
+      "name": "Pull-Up",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "back"
+      ]
+    },
+    {
+      "id": "lat-pulldown",
+      "name": "Lat Pulldown",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "back"
+      ]
+    },
+    {
+      "id": "seated-cable-row",
+      "name": "Seated Cable Row",
+      "aliases": [],
+      "equipment": "cable",
+      "primary_muscles": [
+        "back"
+      ]
+    },
+    {
+      "id": "chest-supported-row",
+      "name": "Chest-Supported Row",
+      "aliases": [],
+      "equipment": "machine_or_free_weight",
+      "primary_muscles": [
+        "chest"
+      ]
+    },
+    {
+      "id": "barbell-row",
+      "name": "Barbell Row",
+      "aliases": [],
+      "equipment": "barbell",
+      "primary_muscles": [
+        "back"
+      ]
+    },
+    {
+      "id": "dumbbell-row",
+      "name": "Dumbbell Row",
+      "aliases": [],
+      "equipment": "dumbbell",
+      "primary_muscles": [
+        "back"
+      ]
+    },
+    {
+      "id": "preacher-curl",
+      "name": "Preacher Curl",
+      "aliases": [],
+      "equipment": "machine_or_free_weight",
+      "primary_muscles": [
+        "biceps"
+      ]
+    },
+    {
+      "id": "hammer-curl",
+      "name": "Hammer Curl",
+      "aliases": [],
+      "equipment": "machine_or_free_weight",
+      "primary_muscles": [
+        "biceps"
+      ]
+    },
+    {
+      "id": "barbell-curl",
+      "name": "Barbell Curl",
+      "aliases": [],
+      "equipment": "barbell",
+      "primary_muscles": [
+        "biceps"
+      ]
+    },
+    {
+      "id": "squat",
+      "name": "Squat",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "id": "hack-squat",
+      "name": "Hack Squat",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "id": "leg-press",
+      "name": "Leg Press",
+      "aliases": [],
+      "equipment": "machine_or_free_weight",
+      "primary_muscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "id": "leg-extension",
+      "name": "Leg Extension",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "id": "seated-leg-curl",
+      "name": "Seated Leg Curl",
+      "aliases": [],
+      "equipment": "machine_or_free_weight",
+      "primary_muscles": [
+        "hamstrings"
+      ]
+    },
+    {
+      "id": "lying-leg-curl",
+      "name": "Lying Leg Curl",
+      "aliases": [],
+      "equipment": "machine_or_free_weight",
+      "primary_muscles": [
+        "hamstrings"
+      ]
+    },
+    {
+      "id": "romanian-deadlift",
+      "name": "Romanian Deadlift",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "hamstrings"
+      ]
+    },
+    {
+      "id": "calf-raise",
+      "name": "Calf Raise",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "calves"
+      ]
+    },
+    {
+      "id": "hip-thrust",
+      "name": "Hip Thrust",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "glutes"
+      ]
+    },
+    {
+      "id": "abdominal-crunch",
+      "name": "Abdominal Crunch",
+      "aliases": [],
+      "equipment": "other",
+      "primary_muscles": [
+        "abdominals"
+      ]
+    }
+  ]
+}
