@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-14",
+  "entries": [
+    {
+      "id": "caffeine",
+      "name": "Caffeine",
+      "aliases": [
+        "caffeine anhydrous"
+      ],
+      "category": "supplement",
+      "profile_status": "pending_review"
+    },
+    {
+      "id": "creatine-monohydrate",
+      "name": "Creatine Monohydrate",
+      "aliases": [
+        "creatine"
+      ],
+      "category": "supplement",
+      "profile_status": "pending_review"
+    },
+    {
+      "id": "berberine",
+      "name": "Berberine",
+      "aliases": [
+        "berberine hcl"
+      ],
+      "category": "supplement",
+      "profile_status": "pending_review"
+    },
+    {
+      "id": "magnesium-glycinate",
+      "name": "Magnesium Glycinate",
+      "aliases": [
+        "magnesium bisglycinate"
+      ],
+      "category": "supplement",
+      "profile_status": "pending_review"
+    },
+    {
+      "id": "vitamin-d3",
+      "name": "Vitamin D3",
+      "aliases": [
+        "cholecalciferol"
+      ],
+      "category": "supplement",
+      "profile_status": "pending_review"
+    },
+    {
+      "id": "citrulline-malate",
+      "name": "Citrulline Malate",
+      "aliases": [
+        "l citrulline malate"
+      ],
+      "category": "supplement",
+      "profile_status": "pending_review"
+    },
+    {
+      "id": "apigenin",
+      "name": "Apigenin",
+      "aliases": [],
+      "category": "supplement",
+      "profile_status": "pending_review"
+    },
+    {
+      "id": "ashwagandha",
+      "name": "Ashwagandha",
+      "aliases": [
+        "withania somnifera"
+      ],
+      "category": "supplement",
+      "profile_status": "pending_review"
+    }
+  ]
+}
